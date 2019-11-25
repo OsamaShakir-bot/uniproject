@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783485902330",
+    "firebase_url": "https://arfurniture-2316a.firebaseio.com",
+    "project_id": "arfurniture-2316a",
+    "storage_bucket": "arfurniture-2316a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783485902330:android:5bc16d3f49f9cdeace9843",
+        "android_client_info": {
+          "package_name": "com.arfurniture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783485902330-j95lb43h2flsvp68rej3bot7nndegeaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA8Dw-oWoByW7QYb7y-iZk-mQ3TrcP07I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783485902330-j95lb43h2flsvp68rej3bot7nndegeaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

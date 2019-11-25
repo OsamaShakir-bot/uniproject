@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>783485902330-nlbolqg6h98tf82otgdu571eujbg33ta.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.783485902330-nlbolqg6h98tf82otgdu571eujbg33ta</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA264Rj7p24XSMuSlI5xFtvcQkT8WvmK20</string>
+	<key>GCM_SENDER_ID</key>
+	<string>783485902330</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.com.Arfurniture</string>
+	<key>PROJECT_ID</key>
+	<string>arfurniture-2316a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arfurniture-2316a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:783485902330:ios:6b9a3cf9dc2e9de1ce9843</string>
+	<key>DATABASE_URL</key>
+	<string>https://arfurniture-2316a.firebaseio.com</string>
+</dict>
+</plist>
